@@ -9,6 +9,7 @@ A simple js script to redirect websites to their privacy friendly &amp; ad free 
 * wikipedia -> wikiless
 * google translate -> simplytranslate
 * twitter -> nitter
+* imgur -> rimgo
 
 And more coming soon
 
